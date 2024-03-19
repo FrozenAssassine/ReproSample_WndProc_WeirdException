@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReproSample_WndProc_WeirdException (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ReproSample_WndProc_WeirdException (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
